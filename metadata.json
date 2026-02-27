@@ -1,0 +1,5 @@
+{
+  "name": "HobbyHive",
+  "description": "HobbyHive is an AI-powered community discovery app that connects users with hyperlocal niche meetups based on their interests and geolocation."
+  "requestFramePermissions": ["geolocation"]
+}
