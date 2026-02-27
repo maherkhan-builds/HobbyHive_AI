@@ -208,7 +208,7 @@ Meetup Builder + Feed Personalization
 
 ---
 
-# 🛠 ## Tools Used
+# 🛠Tools Used
 
 - Gemini + Google AI Studio (ideation + scheduling logic design)  
 - Google App Studio (core app development)  
