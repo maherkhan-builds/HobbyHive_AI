@@ -173,3 +173,80 @@ Energetic • Creative • Inclusive • Discovery-focused
 - Neighborhood-level segmentation  
 
 ### Recommendation Formula
+Match Score = (Interest Similarity × 0.5)
++ (Location Proximity × 0.3)
++ (Engagement Pattern Similarity × 0.2)
+  
+---
+
+# 🏗 Feature Architecture
+
+User Input  
+↓  
+Interest Embedding Engine  
+↓  
+Geolocation Clustering Layer  
+↓  
+Community Recommendation Model  
+↓  
+Meetup Builder + Feed Personalization  
+
+---
+
+# 💰 Business Model
+
+### Free Tier
+- Hobby discovery  
+- Limited meetup creation  
+- Basic geolocation map  
+
+### Premium Tier
+- Advanced AI matching  
+- Unlimited event hosting  
+- Trend analytics dashboard  
+- Deep behavioral clustering insights  
+
+---
+
+# 🛠 ## Tools Used
+
+- Gemini + Google AI Studio (ideation + scheduling logic design)  
+- Google App Studio (core app development)  
+- Google Stitch (UI design + prototyping)  
+- Base44 (UI design + prototyping)  
+- Figma (UI design + prototyping)  
+- Google Opal (interaction testing + refinement)  
+- React + TypeScript  
+
+---
+
+# ⏱ Time to Build
+
+~30–45 minutes (concept → working prototype)
+
+---
+
+# 🎯 What I Learned
+
+Micro-communities don’t fail because of lack of interest.  
+They fail because discovery is broken.
+
+When AI combines **interest intelligence + location awareness**,  
+communities naturally form.
+
+---
+
+# 🔗 Follow the Journey
+
+Building one AI app per day using vibe-coding, focused on one industry problem at a time.
+
+Instagram: https://www.instagram.com/social.icm/  
+TikTok: https://www.tiktok.com/@social_media_coach  
+LinkedIn: https://www.linkedin.com/in/mahersocialmediastrategistus/  
+GitHub: https://github.com/maherkhan-builds  
+
+---
+
+<p align="center">
+  🌍 Built with AI. Designed for Real Communities. 🚀
+</p>
